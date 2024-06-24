@@ -50,7 +50,7 @@ Here are some of the technologies and tools I frequently use:
 
 ## 🎓 Education
 
-I hold a degree in Software engineering, where I focused on software engineering.
+I hold a digital Certificate in Software engineering, where I focused on software engineering in Moringa school.
 
 ## 💬 Let's Connect
 
