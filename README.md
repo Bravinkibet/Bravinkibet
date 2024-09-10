@@ -1,6 +1,6 @@
-# Hi, I’m @Bravinkibet
+# Hi, I’m @BravinkibetNyangusei
 
-👋 Hi, I’m Bravin Kibet
+👋 Hi, I’m Bravin Kibet Nyangusei
 
 ## 👀 Interests
 
