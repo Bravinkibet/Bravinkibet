@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Bravin+Kibet+Nyangusei;Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG"/>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bravinkibet&show_icons=true&theme=radical" alt="Bravin's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
 
 ---
 
@@ -124,3 +119,9 @@
     <p style="line-height:1.6; margin:0;">Thank you for visiting my profile, and I look forward to connecting with you!</p>
   </div>
 </div>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bravinkibet&show_icons=true&theme=radical" alt="Bravin's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
