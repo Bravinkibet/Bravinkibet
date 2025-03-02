@@ -53,7 +53,7 @@ Feel free to drop me a line for collaboration ideas, questions, or just to say h
 ## 🏅 Tech Stack & Tools
 
 <p align="center">
-  <!-- Badges: you can generate them at https://shields.io or https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+  <!-- You can generate custom badges at https://shields.io or https://github.com/alexandresanlim/Badges4-README.md-Profile -->
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React Badge"/>
@@ -83,9 +83,9 @@ I’m a puzzle-solving enthusiast and have tackled over **1000 puzzles** of vari
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Replace the username value with your GitHub username if you'd like to display your stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BravinkibetNyangusei&show_icons=true&theme=radical" alt="Bravin's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BravinkibetNyangusei&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <!-- Updated with correct username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bravinkibet&show_icons=true&theme=radical" alt="Bravin's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
@@ -98,5 +98,3 @@ I’m always open to connecting with like-minded individuals, collaborating on e
   <a href="https://www.linkedin.com/in/bravin-nyangusei-450385309/"><img src="https://img.shields.io/badge/LinkedIn-Bravin%20Nyangusei-blue?style=flat&logo=linkedin"></a>
   <a href="https://twitter.com/_the_jocker"><img src="https://img.shields.io/badge/Twitter-@_the__jocker-1DA1F2?style=flat&logo=twitter"></a>
 </p>
-
----
