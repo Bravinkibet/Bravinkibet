@@ -63,8 +63,7 @@ Hello! I’m **Bravin Kibet Nyangusei**, a passionate **Full Stack Developer** w
 
 ## 📫 How to Reach Me
 - **Email**: [bravink599@gmail.com](mailto:bravink599@gmail.com)
-- **LinkedIn**: [Bravin Nyangusei](https://www.linkedin.com/in/bravin-nyangusei-450385309/)
-- **Twitter**: [@\_the_jocker](https://twitter.com/_the_jocker)
+- **LinkedIn**: [Bravin ](https://www.linkedin.com/in/bravin-kibet-1a4077328/)
 - **Phone**: 0741937056
 
 Feel free to drop me a line for collaboration ideas, questions, or just to say hi!
