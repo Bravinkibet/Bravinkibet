@@ -1,5 +1,4 @@
-<!-- 
-  Optionally, add a cool header image:
+<!-- Optionally, add a cool header image:
   <img src="YOUR_HEADER_IMAGE_URL" alt="header image" style="width:100%;"/>
 -->
 
@@ -9,11 +8,11 @@
 </h1>
 
 <p align="center">
-  <!-- Fixed the URL-encoding for "Hey there 👋 I'm Bravin Kibet Nyangusei" -->
+  <!-- Increased width to 600 and URL-encoded the apostrophe in "I'm" -->
   <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=500&lines=Hey%20there%20%F0%9F%91%8B%20I%27m%20Bravin%20Kibet%20Nyangusei;Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver;Always+Learning+New+Things!" 
-       alt="Typing SVG"
-/>
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=600&lines=Hey%20there%20%F0%9F%91%8B%20I%27m%20Bravin%20Kibet%20Nyangusei;Full%20Stack%20Developer;Tech%20Enthusiast%20%7C%20Problem%20Solver;Always%20Learning%20New%20Things!"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
