@@ -26,6 +26,19 @@ Hello! I’m **Bravin Kibet Nyangusei**, a passionate **Full Stack Developer** w
 - ✨ **Innovation**: I’m always on the lookout for innovative ideas and enjoy working on cutting-edge projects that have real-world impact.
 
 ---
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <!-- Pull Shark -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark" />
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" height="80" alt="YOLO" />
+</div>
+
+- **Pull Shark**: You opened pull requests that have been merged.
+- **YOLO**: You merged a pull request without any review.
+
+---
 
 ## 👀 Interests
 - **Web Development**: Building interactive and responsive web apps with React.js, Vue.js, and Node.js.
