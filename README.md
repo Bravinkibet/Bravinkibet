@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B+I'm+Bravin+Kibet+Nyangusei;Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=500&lines=HHey+there+%F0%9F%91%8B+I'm+Bravin+Kibet+Nyanguseii;Full+Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver;Always+Learning+New+Things!">
 </p>
 
 ---
