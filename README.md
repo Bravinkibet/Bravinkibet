@@ -1,22 +1,34 @@
+<h1 align="center">
+  Welcome to My GitHub Profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=600&lines=Hey%20there%20%F0%9F%91%8B%20I%27m%20Bravin%20Kibet%20Nyangusei;Full%20Stack%20Developer;Tech%20Enthusiast%20%7C%20Problem%20Solver;Always%20Learning%20New%20Things!"
+    alt="Typing SVG"
+  />
+</p>
+
 <div align="center">
 
-# 💫 About Me
+# 🌟 About Me
 
 ## 🚀 Who Am I?
 Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer** who enjoys crafting scalable, high-performance web applications. I love solving problems, building innovative solutions, and continuously learning new technologies to stay ahead in the tech world.
 
 ## 🔥 What I'm Up To
 - 🤝 Open to collaborating on **Full-Stack Web Development Projects**
-- 🆘 Seeking guidance on **Scaling Flask Applications**
+- 🟢 Seeking guidance on **Scaling Flask Applications**
 - 🌱 Learning **Advanced React & DevOps** to level up my skills
 - 💬 Ask me about **Web Development, Flask, React, and SQL**
 - ⚡ Fun Fact: **I love hiking & exploring new places!**
 
-## 📫 Let's Connect
+## 💋 Let's Connect
 📧 **Email:** bravink599@gmail.com  
-📞 **Phone:** 0741937056  
-🔗 **LinkedIn:** [Bravin Kibet Nyangusei](https://www.linkedin.com/in/bravin-kibet-1a4077328/)  
-🌍 **Portfolio:** [bravink-kibet-nyangusei-portfolio.onrender.com](https://bravink-kibet-nyangusei-portfolio.onrender.com)
+📱 **Phone:** 0741937056  
+🟢 **LinkedIn:** [Bravin Kibet Nyangusei](https://www.linkedin.com/in/bravin-kibet-1a4077328/)  
+🌐 **Portfolio:** [bravink-kibet-nyangusei-portfolio.onrender.com](https://bravink-kibet-nyangusei-portfolio.onrender.com)
 
 ## 🚀 My GitHub
 🔗 **GitHub:** [github.com/Bravinkibet](https://github.com/Bravinkibet)
@@ -44,7 +56,7 @@ Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔽 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bravinkibet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
