@@ -18,11 +18,11 @@
 Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer** who enjoys crafting scalable, high-performance web applications. I love solving problems, building innovative solutions, and continuously learning new technologies to stay ahead in the tech world.
 
 ## 🔥 What I'm Up To
--🤝 Open to collaborating on **Full-Stack Web Development Projects**
--🟢 Seeking guidance on **Scaling Flask Applications**
--🌱 Learning **Advanced React & DevOps** to level up my skills
--💬 Ask me about **Web Development, Flask, React, and SQL**
--⚡ Fun Fact: **I love hiking & exploring new places!**
+- 🤝 Open to collaborating on **Full-Stack Web Development Projects**
+- 🟢 Seeking guidance on **Scaling Flask Applications**
+- 🌱 Learning **Advanced React & DevOps** to level up my skills
+- 💬 Ask me about **Web Development, Flask, React, and SQL**
+- ⚡ Fun Fact: **I love hiking & exploring new places!**
 
 ## 💋 Let's Connect
 📧 **Email:** bravink599@gmail.com  
