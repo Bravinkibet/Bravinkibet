@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=600&lines=Hey%20there%20%F0%9F%91%8B%20I%27m%20Bravin%20Kibet%20Nyangusei;Full%20Stack%20Developer;Tech%20Enthusiast%20%7C%20Problem%20Solver;Always%20Learning%20New%20Things!"
