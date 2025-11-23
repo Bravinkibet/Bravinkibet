@@ -49,6 +49,8 @@ Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer
 ![](https://github-readme-stats.vercel.app/api?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bravinkibet&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
