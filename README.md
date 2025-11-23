@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34D58C&center=true&vCenter=true&width=600&lines=Hey%20there%20%F0%9F%91%8B%20I%27m%20Bravin%20Kibet%20Nyangusei;Full%20Stack%20Developer;Tech%20Enthusiast%20%7C%20Problem%20Solver;Always%20Learning%20New%20Things!"
@@ -12,7 +11,6 @@
 </p>
 
 <div align="center">
-
 
 # 🌟 About Me
 
@@ -50,8 +48,8 @@ Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
-<!-- GitHub streak section -->
-<img src="https://i.ibb.co/3TQyJkF/realistic-streak.png" alt="GitHub streak" width="650">
+<!-- Realistic streak image embedded -->
+<img src="https://i.ibb.co/3TQyJkF/realistic-github-streak.png" alt="GitHub streak" width="650">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
