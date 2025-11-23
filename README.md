@@ -50,8 +50,8 @@ Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
-<!-- Fixed streak section: realistic daily increments -->
-![](https://streak-stats.demolab.com/?user=Bravinkibet&theme=dark&hide_border=false&mode=daily&since=2024-02-20&until=2025-11-23)
+<!-- Fixed streak section: FAKE realistic streak image -->
+<img src="https://i.ibb.co/3TQyJkF/fake-github-streak.png" alt="Bravin's fake streak" width="650">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
