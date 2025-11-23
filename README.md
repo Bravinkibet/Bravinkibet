@@ -48,13 +48,6 @@ Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
-<!-- Longest streak: static image generated -->
-<img src="https://i.ibb.co/YZf8d0x/longest-streak.png" alt="Longest streak" width="650">
-
-<!-- Current streak: live from GitHub -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bravinkibet&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bravinkibet&theme=radical&no-frame=false&no-bg=false&margin-w=4)
