@@ -49,7 +49,8 @@ Hey there! I’m **Bravin Kibet Nyangusei**, a passionate **Full-Stack Developer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Bravinkibet&theme=dark&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Bravinkibet&theme=dark&hide_border=false&custom_title=Longest%20Streak&date_format=M/D&start_date=2025-02-20&end_date=2025-11-27)  
+![](https://nirzak-streak-stats.vercel.app/?user=Bravinkibet&theme=dark&hide_border=false&custom_title=Current%20Streak&date_format=M/D&start_date=2025-09-12)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravinkibet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
